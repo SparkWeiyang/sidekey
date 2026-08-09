@@ -10,21 +10,5 @@
     "url": "https://pan.quark.cn/s/34aeee57f2a6",
     "hint": "或迅雷搜“Spark的资源分享”"
   },
-  "noticeflow": {
-    "version": "3.0.1",
-    "describe": "实况通知标准版 v3.0.1\n1. 修复歌词上岛不滚动，歌词滚动参数对齐此前版本\n2. 自定义卡片支持「显示关闭按钮」开关\n3. 精确时钟上岛显示到毫秒（网络校时）\n4. 修复音乐/播放器通知被拦截导致应用异常\n5. 修复高频监测类通知反复上岛\n6. 关闭「进度通知上岛」时即时撤下已显示的进度岛",
-    "download": {
-      "url": "https://pan.quark.cn/s/34aeee57f2a6",
-      "hint": "或迅雷搜“Spark的资源分享”"
-    }
-  },
-  "noticeflow_hyper": {
-    "version": "3.0.1",
-    "describe": "实况通知澎湃版 v3.0.1\n1. 修复功率岛反复展开\n2. 通知岛自动展开默认关闭、开关恢复生效\n3. 修复首条/首岛消息不发光，自定义卡片与录屏岛发光恢复\n4. 修复录屏岛上岛后快速消失",
-    "download": {
-      "url": "https://pan.quark.cn/s/34aeee57f2a6",
-      "hint": "或迅雷搜“Spark的资源分享”"
-    }
-  },
   "updated_at": "2026-08-09"
 }
